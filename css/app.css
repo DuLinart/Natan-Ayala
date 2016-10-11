@@ -1,8 +1,21 @@
 body {
-	background-color: white;
+	background-color: lightblue;
 	
 }
 
+#offCanvas {
+	background-color: rgba(0,0,0,.7);
+	color: black;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.vertical .menu {
+	background-color: rgba(0,0,0,1);
+	color: black;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
 
 .contacto-container {
 	background-color: rgba(0,0,0,.7);
@@ -60,14 +73,18 @@ body {
 	align-items: center;
 }
 
-#div-logo-container h1:before {
+/*#div-logo-container h1:before {
 	content: url(../Assets/Logo-NatanAyala_derecho.png);
-	margin-right: 5px;
-}
+	
+}*/
 
 #div-logo-container h1:after {
-	content: url(../Assets/Logo-NatanAyala_derecho.png);
+	content: url(../Assets/Logo-NatanAyala50px.png);
 	position: fixed;
 }
 
-
+#div-logo-container .is-active a,
+#div-logo-container .is-active li{
+	background-color: lightgray;
+	border: 0px;
+}
