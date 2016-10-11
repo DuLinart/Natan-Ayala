@@ -37,3 +37,37 @@ body {
 	width: 100%;
 	z-index: 100;
 }
+
+#logo-container {
+	margin: 15px 0;
+
+}
+
+#logo-container a,
+#logo-container h1,
+.menu  {
+	/*background-color: lightblue;*/
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	margin: 0px;
+	align-items: center;
+	text-align: center;
+	width: auto;
+}
+
+#div-logo-container {
+	align-items: center;
+}
+
+#div-logo-container h1:before {
+	content: url(../Assets/Logo-NatanAyala_derecho.png);
+	margin-right: 5px;
+}
+
+#div-logo-container h1:after {
+	content: url(../Assets/Logo-NatanAyala_derecho.png);
+	position: fixed;
+}
+
+
