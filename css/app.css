@@ -184,3 +184,66 @@ height: 207px;
 	text-transform: uppercase;
 	font-family: 'Montserrat', sans-serif;
 }
+
+/*Inicia sección de cv*/
+.imagen-cv img {
+	width: 30%;
+	height: 0%;
+	min-width:25%;
+
+}
+
+.imagen-cv h2 {
+	margin:10px 0;
+	text-transform: uppercase;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+}
+
+.imagen-cv p {
+	text-transform: uppercase;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10px;
+	margin: 0px;
+}
+
+.habilidades {
+	max-width: 1500px;
+	max-height: 400px;
+	margin: 30px 0;
+}
+
+.habilidades h2, .habilidades1 h2, .habilidades2 h2 {
+	font-family: 'Montserrat', bold sans-serif;
+	text-transform: uppercase;
+	font-size: 20px;
+    text-align: -webkit-left;
+}
+
+}
+
+.habilidades img {
+	width: 50%;
+	height: 50%;
+	/*max-width: */
+
+}
+
+.habilidades1 img {
+	max-width: auto;
+	max-height: auto;
+	/*max-width: */
+	
+}
+
+.habilidades2 img {
+	max-width: 37%;
+	max-height: 37%;
+	/*max-width: */
+	
+}
+
+
+/*Termina sección de cv*/
