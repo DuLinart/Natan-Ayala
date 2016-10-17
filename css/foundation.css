@@ -649,7 +649,9 @@ kbd {
   .medium-text-center {
     text-align: center; }
   .medium-text-justify {
-    text-align: justify; } }
+    text-align: justify; } 
+  
+  }
 
 @media screen and (min-width: 64em) {
   .large-text-left {
