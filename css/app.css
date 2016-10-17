@@ -81,8 +81,8 @@ body {
 
 }
 
-
-#logo-container h1,
+#logo-container .natan-menu a,
+#logo-container .natan-menu h1,
 .menu  {
 	/*background-color: lightblue;*/
 	color: black;
