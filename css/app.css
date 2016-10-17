@@ -92,11 +92,13 @@ body {
 	align-items: center;
 	text-align: center;
 	width: auto;
+	font-size: 15px;
 }
 
 #div-logo-container {
 	align-items: center;
 	margin: 0px;
+
 
 }
 
@@ -105,11 +107,26 @@ body {
 	
 }*/
 
+#div-logo-container .menu1 a {
+	background-color: white;
+	border: 0px;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 15px;
+}
 
 #div-logo-container .is-active a,
 #div-logo-container .is-active li{
-	background-color: lightgray;
+	background-color: white;
 	border: 0px;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 15px !important; 
+	
 }
 
 #proyectos-container {
