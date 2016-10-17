@@ -302,17 +302,46 @@ height: 215px;
 	font-family: 'Montserrat', bold sans-serif;
 	text-transform: uppercase;
 	font-family: 15px;
+
 }
+
+.habilidades2  p {
+	margin: 0px;
+}
+
 .imagen-cv p {
 	margin-bottom: 30px;
 }
 
-.años p {
+
+#educacion h2, 
+#experiencia h2 {
 	text-align: left;
 	color: black;
 	font-family: 'Montserrat', bold sans-serif;
 	text-transform: uppercase;
-	font-family: 15px;
+	font-size: 30px;
+}
+
+#educacion th, 
+#experiencia th {
+	text-align: left;
+	color: black;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+	
+}
+
+#educación-experiencia .año  {
+	text-align: center;
+	
+}
+
+#educacion .eduperiencia,
+#experiencia .eduperiencia {
+	text-align: justify;
+	font-size: 10px;
 }
 
 /*Termina sección de cv*/
