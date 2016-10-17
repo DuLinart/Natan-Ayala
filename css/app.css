@@ -245,5 +245,23 @@ height: 207px;
 	
 }
 
+.habilidades2, .colegio p {
+	text-align: left;
+	color: black;
+	font-family: 'Montserrat', bold sans-serif;
+	text-transform: uppercase;
+	font-family: 15px;
+}
+.imagen-cv p {
+	margin-bottom: 30px;
+}
+
+.años p {
+	text-align: left;
+	color: black;
+	font-family: 'Montserrat', bold sans-serif;
+	text-transform: uppercase;
+	font-family: 15px;
+}
 
 /*Termina sección de cv*/
