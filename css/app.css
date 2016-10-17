@@ -77,8 +77,18 @@ body {
 	
 	background-color: white;
 	z-index: 300;
-	padding: 15px 0;
+	
 
+}
+
+.logo a {
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	margin: 0px;
+	align-items: center;
+	text-align: center;
+	font-size: 45px;
 }
 
 #logo-container .natan-menu a,
@@ -91,7 +101,6 @@ body {
 	margin: 0px;
 	align-items: center;
 	text-align: center;
-	width: auto;
 	font-size: 15px;
 }
 
