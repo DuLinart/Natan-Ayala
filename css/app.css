@@ -132,15 +132,20 @@ body {
 }*/
 
 #proyectos-container {
-	background-color: orange;
+	background-color: white;
 	padding: 50px 0;
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	text-align: center;
+	border-bottom: 1px solid black;
 }
 
 #proyectos-container h3 {
-	margin-bottom: 60px;
+	margin-bottom: 30px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	text-decoration: underline;
+	text-align: center;
 }
 
 
@@ -164,12 +169,12 @@ body {
 
 .info-proyectos {
 position: absolute; /*Info sobre la imagen*/
-top: 2%;
+top: 0%;
 left: 0%; /*Desplazamos a partir de la esquina superior izquierda*/
 zoom: 1;
 filter: alpha(opacity=0); /*Opacidad Para IE */
 opacity: 0; /*Inicialmente transparente */
-padding: 20px;
+padding: 25px;
 color: white;
 background-color: rgba(0,0,0,.7);
 -moz-transition:all ease .8s; /*Aplicamos una ligera transición*/
@@ -177,7 +182,7 @@ background-color: rgba(0,0,0,.7);
 transition:all ease .8s;
 z-index: 3;
 width: 300px;
-height: 207px;
+height: 215px;
 }
 
 .proyecto-titulo {
