@@ -351,3 +351,87 @@ height: 215px;
 }
 
 /*Termina sección de cv*/
+
+
+/*Inicia el footer*/
+
+#footer-container {
+	background:url(http://tecnovortex.com/wp-content/uploads/2014/11/wallpaper-negro.jpg);
+	background-size: cover;
+	height: auto;
+	padding: 15px 0;
+}
+
+#footer-container h3, h4 {
+
+	color: white;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+/*#footer-container h3 {
+
+	color: white;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+	font-size: 20px;
+}*/
+
+#div-footer-container {
+	border: 1px solid black;
+	
+	
+}
+
+#div-footer-container a {
+	text-align: left;
+	color: white;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+	font-size: 45px;
+}
+
+#natan-logo {
+	height: 200px;
+}
+
+#formulario-container label {
+	color: white;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+}
+
+.input-group-button input{
+	background-color: white;
+	color: black;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+}
+
+#datos-adicionales-container img {
+	width: 50px;
+	margin: 10px 0;
+}
+
+#datos-adicionales-container h3 {
+	margin: 0px;
+	text-transform: none;
+	font-family: 'Montserrat', normal sans-serif;
+}
+
+#datos-adicionales-container a, p {
+	margin: 0pc;
+	text-transform: uppercase;
+	font-family: 'Montserrat', normal sans-serif;
+	color: white;
+	font-size: 10px;
+
+}
+
+#datos-adicionales-container a {
+	text-decoration: underline;
+	
+}
+
+/*Termina el footer*/
