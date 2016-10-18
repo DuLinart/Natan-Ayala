@@ -380,7 +380,7 @@ height: 215px;
 /*Inicia el footer*/
 
 #footer-container {
-	background:url(http://tecnovortex.com/wp-content/uploads/2014/11/wallpaper-negro.jpg);
+	background:url(../Assets/fondo_footer/Footer-Fondo.jpg);
 	background-size: cover;
 	height: auto;
 	padding-top: 100px;
@@ -433,14 +433,25 @@ height: 215px;
 	text-transform: uppercase;
 }
 
+#datos-adicionales-container .logo-natan  {
+	width: 75px;
+	margin: 30px 0;
+}
+
+#datos-adicionales-container .logo-linarte  {
+	width: 80px;
+	/*margin: 30px 0;*/
+}
+
 #datos-adicionales-container img {
 	width: 50px;
-	margin: 10px 0;
+	margin: 30px 0;
 }
 
 #datos-adicionales-container h3 {
 	margin: 0px;
 	text-transform: none;
+	font-size: 18px;
 	font-family: 'Montserrat', normal sans-serif;
 }
 
