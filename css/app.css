@@ -35,11 +35,12 @@ body {
 }
 
 .contacto-container {
-	background-color: #4C4C4C;
+	background-color: #000000;
 	color: black;
 	font-size: 20px;
 	font-family: 'Montserrat', sans-serif;
 	height: auto;
+	height: 41px;
 }
 
 .contacto-container img {
@@ -51,14 +52,23 @@ body {
 	
 }
 
+#contacto-container .telefono,
+#contacto-container .mail {
+	margin-top: 9px;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#contacto-container .medios {
+	margin-top: 3px;
+}
+
+
 .medios-div i{
 	text-align: right;
 }
 
-.medios-div {
-	
-	
-}
 
 .medios-container {
 	margin: 0 1px;
@@ -102,6 +112,7 @@ body {
 	align-items: center;
 	text-align: center;
 	font-size: 15px;
+	border: 0px;
 }
 
 #div-logo-container {
