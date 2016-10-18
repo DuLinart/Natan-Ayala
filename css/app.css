@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: white;
 	
 }
 
@@ -18,6 +18,8 @@ body {
 	font-size: 20px;
 	font-family: 'Montserrat', sans-serif;
 }
+
+
 
 .menu-small {
 	
@@ -94,11 +96,12 @@ body {
 .logo a {
 	color: black;
 	font-family: 'Montserrat', sans-serif;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	margin: 0px;
 	align-items: center;
 	text-align: center;
 	font-size: 45px;
+	font-variant: small-caps;
 }
 
 #logo-container .natan-menu a,
@@ -137,11 +140,13 @@ body {
 	font-size: 15px;
 }
 
-#div-logo-container .is-active a,
-#div-logo-container .is-active li{
-	background-color: white;
+#div-logo-container .tabs,
+#div-logo-container .tabs-title
+#div-logo-container .tabs .tabs-title .is-active a,
+{
+	background-color: #8b8d90;
 	border: 0px;
-	color: black;
+	color: blue;
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	text-align: left;
@@ -149,9 +154,6 @@ body {
 	
 }
 
-#proyectos-container {
-	margin-bottom: 100px;
-}
 
 .Raw-Fluorescence img,
 .Lite-Experience img,
@@ -178,11 +180,11 @@ body {
 
 #proyectos-container {
 	background-color: white;
-	padding: 50px 0;
+	/*padding: 50px 0;*/
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	text-align: center;
-	border-bottom: 1px solid black;
+	/*margin-bottom: 30px;*/
 }
 
 #proyectos-container h3 {
@@ -248,6 +250,11 @@ height: 215px;
 }
 
 /*Inicia sección de cv*/
+#cv-container {
+	padding-top: 90px;
+}
+
+
 .imagen-cv img {
 	width: 30%;
 	height: 0%;
@@ -257,17 +264,17 @@ height: 215px;
 
 .imagen-cv h2 {
 	margin:10px 0;
-	text-transform: uppercase;
+	font-variant: small-caps;	
 	color: black;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
+	font-size: 24px;
 }
 
 .imagen-cv p {
 	text-transform: uppercase;
 	color: black;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 10px;
+	font-family: 'Montserrat', bold sans-serif;
+	font-size: 14px;
 	margin: 0px;
 }
 
@@ -336,25 +343,30 @@ height: 215px;
 	font-size: 20px;
 }
 
-#educacion th, 
-#experiencia th {
-	text-align: left;
-	color: black;
-	font-family: 'Montserrat', normal sans-serif;
-	text-transform: uppercase;
+
+#educación-experiencia .año  {
+	text-align: right;
 	font-size: 15px;
 	
 }
 
-#educación-experiencia .año  {
-	text-align: center;
-	
+#educación-experiencia {
+	margin-top: 50px;
 }
 
 #educacion .eduperiencia,
 #experiencia .eduperiencia {
 	text-align: justify;
-	font-size: 10px;
+	font-size: 12px;
+	color: gray;
+	font-family: 'Montserrat', normal sans-serif;
+	text-transform: uppercase;
+}
+
+.eduperiencia span {
+	color: black;
+	font-family: 'Montserrat', bold sans-serif;
+	font-size: 18px;
 }
 
 .eduperiencia img {
@@ -370,7 +382,7 @@ height: 215px;
 	background:url(http://tecnovortex.com/wp-content/uploads/2014/11/wallpaper-negro.jpg);
 	background-size: cover;
 	height: auto;
-	padding: 15px 0;
+	padding-top: 100px;
 }
 
 #footer-container h3, h4 {

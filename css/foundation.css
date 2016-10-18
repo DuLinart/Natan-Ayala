@@ -354,7 +354,7 @@ optgroup {
    * Remove most spacing between table cells.
    */
 table {
-  border-collapse: collapse;
+  /*border-collapse: collapse;*/
   border-spacing: 0; }
 
 td,
@@ -2569,7 +2569,7 @@ table {
     padding: 0.5rem 0.625rem 0.625rem; }
   table thead,
   table tfoot {
-    background: #f8f8f8;
+    background: white;
     color: #0a0a0a; }
     table thead tr,
     table tfoot tr {
