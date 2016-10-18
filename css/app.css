@@ -56,10 +56,14 @@ body {
 
 #contacto-container .telefono,
 #contacto-container .mail {
+<<<<<<< HEAD
 	margin-top: 9px;
 	font-size: 14px;
 	font-family: 'Montserrat', sans-serif;
 
+=======
+	margin-top: 5px;
+>>>>>>> origin/master
 }
 
 #contacto-container .medios {
