@@ -24,8 +24,9 @@ body {
 .menu-small {
 	
 	border: 1px solid black;
-	background:url(http://tecnovortex.com/wp-content/uploads/2014/11/wallpaper-negro.jpg);
+	background:url(../Assets/fondo_footer/Footer-Fondo.jpg);
 	background-size: cover;
+	height: auto;
 	
 }
 
@@ -286,13 +287,19 @@ height: 215px;
 .habilidades {
 	max-width: 100%;
     max-height: 100%;
-    margin: 30px 10px;
+    margin: 30px 30px;
+}
+
+#extras {
+	max-width: 100%;
+    max-height: 100%;
+    margin: 30px 30px;
 }
 
 .habilidades h2, .habilidades1 h2, .habilidades2 h2 {
 	font-family: 'Montserrat', bold sans-serif;
 	text-transform: uppercase;
-	font-size: 20px;
+	font-size: 25px;
     text-align: -webkit-left;
 }
 
@@ -355,8 +362,8 @@ height: 215px;
 	
 }
 
-#educación-experiencia {
-	margin-top: 50px;
+#educacion-experiencia {
+	margin: auto 60px;
 }
 
 #educacion .eduperiencia,
