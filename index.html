@@ -24,8 +24,8 @@
               <li>
                 <a href="#portafolio-container">Portafolio</a>
                 <ul class="vertical menu">
-                  <li><a data-toggle-proyecto="#" href="#rawFluorescense">Raw Fluorescence</a></li>
-                  <li><a data-toggle-proyecto="#" href="#liteExperience">Lite Experience</a></li>
+                  <li><a data-toggle-proyecto="Raw-Fluorescence" href="#Raw-Fluorescence">Raw Fluorescence</a></li>
+                  <li><a data-toggle-proyecto="Lite-Experience" href="#Lite-Experience">Lite Experience</a></li>
                   <li><a data-toggle-proyecto="#" href="#arium">Arium</a></li>
                   <li><a data-toggle-proyecto="#" href="#prismatic">Prismatic</a></li>
                   <li><a data-toggle-proyecto="#" href="#rinoh">Rinoh</a></li>
@@ -95,20 +95,20 @@
                           
                           <div class="natan-menu columns medium-6 large-4 align-center menu-principal">
                               <nav id="menu-container" class="menu-container" data-magellan>
-                                <ul class=" tabs menu dropdown text-center align-center show-for-medium" data-dropdown-menu data-tabs>
+                                <ul id="proyecto-tabs" class=" tabs menu dropdown text-center align-center show-for-medium" data-dropdown-menu data-tabs>
                                   <li class="tabs-title is-active">
                                   <a href="#">Portafolio</a>
-                                  <ul id="submenu-container" class="menu">
-                                    <li><a data-toggle-proyecto="#" href="#rawFluorescense">Raw Fluorescence</a></li>
-                                    <li><a data-toggle-proyecto="#" href="#liteExperience">Lite Experience</a></li>
-                                    <li><a data-toggle-proyecto="#" href="#arium">Arium</a></li>
-                                    <li><a data-toggle-proyecto="#" href="#prismatic">Prismatic</a></li>
-                                    <li ><a data-toggle-proyecto="#" href="#rinoh">Rinoh</a></li>
-                                    <li ><a data-toggle-proyecto="#" href="#vector">Vector</a></li>
+                                  <ul id="submenu-container" id="lineup-tabs" class="menu">
+                                    <li><a data-toggle-proyecto="Raw-Fluorescence" href="#Raw-Fluorescence">Raw Fluorescence</a></li>
+                                    <li><a data-toggle-proyecto="Lite-Experience" href="#Lite-Experience">Lite Experience</a></li>
+                                    <li><a data-toggle-proyecto="#" href="#proyectos-container">Arium</a></li>
+                                    <li><a data-toggle-proyecto="#" href="#proyectos-container">Prismatic</a></li>
+                                    <li><a data-toggle-proyecto="#" href="#proyectos-container">Rinoh</a></li>
+                                    <li><a data-toggle-proyecto="#" href="#proyectos-container">Vector</a></li>
                                   </ul>
                                   </li>
-                                  <li class="tabs-title"><a class="menu1" href="#cv-container">CV</a></li>
-                                  <li class="tabs-title"><a class="menu1" href="#footer-container">Contacto</a></li>
+                                  <li><a class="menu1" href="#cv-container">CV</a></li>
+                                  <li><a class="menu1" href="#footer-container">Contacto</a></li>
                                 </ul>
                               </nav>
                           </div>
@@ -133,12 +133,11 @@
 
                       <section id="proyectos-container">
 
-                        <!-- <h3 class="text-center">Proyectos</h3> -->
 
                         <div class=" row small-12 medium-10 large-10 align-spaced">
 
                                             <!-- Raw Fluorence -->
-                          <div class=" caja">
+                          <div class=" caja" data-magellan>
                             <a href="#Raw-Fluorescence">
                             <img src="Assets/Portadas_Proyectos/RawFluorescence-Portada-NatanAyala.jpg">
                             <span class="proyecto-titulo text-left info-proyectos">
@@ -244,15 +243,106 @@
                                             <!-- VECTOR -->
                           
                         </div>
+
+                                                  <!-- Inicia secciones de proyectos -->
+                        <div class="tabs-content" data-tabs-content="lineup-tabs">
+
+                          <div class="tabs-panel is-active" data-magellan-target="Raw-Fluorescence" id="Raw-Fluorescence">
+                            <div class="row large-10">
+                              <div class="text-center align-center large-12">
+                                <h1>RAW FLUORESCENCE</h1>
+                                <h3>CLIENT | GRUPO LITE</h3>
+                                <h4>2015</h4>
+                                <p>Instalación de luz que muestra la iluminación en su forma más honesta.<br>
+                                      Esta vez, la luz es el elemento principal dejando de lado el espacio que la rodea.</p>
+                              </div>
+                              <div class="orbit" heigth="250px" role="region" aria-label="Favorite Space Pictures" data-orbit>
+                                <ul class="orbit-container">
+                                  <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+                                  <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+                                  <li class="is-active orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Raw Fluorecence</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Lets Rocket!</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Encapsulating</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Outta This World</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Outta This World</figcaption>
+                                  </li>
+                                </ul>
+                                <nav class="orbit-bullets">
+                                  <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
+                                  <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+                                  <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+                                  <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+                                </nav>
+                              </div>
+                              
+                            </div>
+                          </div>
+
+                          <div class="tabs-panel" data-magellan-target="Lite-Experience" id="Lite-Experience">
+                            <div class="row large-10">
+                              <div class="text-center align-center large-12">
+                                <h1>LITE EXPERIENCE</h1>
+                                <h3>CLIENT | GRUPO LITE</h3>
+                                <h4>2015</h4>
+                                <p>Instalación de luz que muestra la iluminación en su forma más honesta.<br>
+                                      Esta vez, la luz es el elemento principal dejando de lado el espacio que la rodea.</p>
+                              </div>
+                              <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
+                                <ul class="orbit-container">
+                                  <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+                                  <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+                                  <li class="is-active orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Raw Fluorecence</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Lets Rocket!</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Encapsulating</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Outta This World</figcaption>
+                                  </li>
+                                  <li class="orbit-slide">
+                                    <img class="orbit-image" height="200px" src="Assets/Proyectos/Raw-Fluorescence/RawFluorescence1-NatanAyala.jpg" alt="Space">
+                                    <figcaption class="orbit-caption">Outta This World</figcaption>
+                                  </li>
+                                </ul>
+                                <nav class="orbit-bullets">
+                                  <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
+                                  <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+                                  <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+                                  <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+                                </nav>
+                              </div>
+                              
+                            </div>
+                          </div>
+
                           
-                          
+
+                        </div>
                         
-                      
-                      
 
-
-
-
+                                                  <!-- Finaliza secciones de proyectos -->
                       
                       </section>
                                         <!-- Sección de proyectos -->
@@ -499,8 +589,9 @@
 
           </div>
 
+        </div>
       </div>
-    </div>
+    
     <!-- Sección de menú off-canvas -->
 
     <script src="js/vendor/jquery.js"></script>
