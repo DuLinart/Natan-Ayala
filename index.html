@@ -95,12 +95,12 @@
                           
                           <div class="natan-menu columns medium-6 large-4 align-center menu-principal">
                               <nav id="menu-container" class="menu-container" data-magellan>
-                                <ul id="proyecto-tabs" class=" tabs menu dropdown text-center align-center show-for-medium" data-dropdown-menu data-tabs>
+                                <ul class=" tabs menu dropdown text-center align-center show-for-medium" data-dropdown-menu >
                                   <li class="tabs-title is-active">
                                   <a href="#">Portafolio</a>
-                                  <ul id="submenu-container" id="lineup-tabs" class="menu">
-                                    <li><a data-toggle-proyecto="Raw-Fluorescence" href="#Raw-Fluorescence">Raw Fluorescence</a></li>
-                                    <li><a data-toggle-proyecto="Lite-Experience" href="#Lite-Experience">Lite Experience</a></li>
+                                  <ul id="submenu-container" class="menu">
+                                    <li><a data-toggle-proyecto="Raw-Fluorescence" href="#proyectos-container-ind">Raw Fluorescence</a></li>
+                                    <li><a data-toggle-proyecto="Lite-Experience" href="#proyectos-container-ind">Lite Experience</a></li>
                                     <li><a data-toggle-proyecto="#" href="#proyectos-container">Arium</a></li>
                                     <li><a data-toggle-proyecto="#" href="#proyectos-container">Prismatic</a></li>
                                     <li><a data-toggle-proyecto="#" href="#proyectos-container">Rinoh</a></li>
@@ -153,7 +153,7 @@
                           </div>
                                             <!-- Raw Fluorence -->
                                             <!-- Lite Experience -->
-                          <div class="  caja">
+                          <div class=" caja" >
                             <a href="#Lite-Experience">
                             <img src="Assets/Portadas_Proyectos/LiteExperience-Portada-NatanAyala.jpg">
                             <span class="proyecto-titulo text-left info-proyectos">
@@ -244,8 +244,12 @@
                           
                         </div>
 
-                                                  <!-- Inicia secciones de proyectos -->
-                        <div class="tabs-content" data-tabs-content="lineup-tabs">
+                      </section>
+
+                                                  <!-- termina Sección de proyectos -->
+                                                  <!-- Inicia secciones de proyectos individuales -->
+                        <section id="proyectos-container-ind">
+                          <div class="tabs-content" data-tabs-content="submenu-container">
 
                           <div class="tabs-panel is-active" data-magellan-target="Raw-Fluorescence" id="Raw-Fluorescence">
                             <div class="row large-10">
@@ -340,12 +344,12 @@
                           
 
                         </div>
+                        </section>
+                        
                         
 
                                                   <!-- Finaliza secciones de proyectos -->
                       
-                      </section>
-                                        <!-- Sección de proyectos -->
                                         
                                         <!-- Sección de CV -->
 
