@@ -484,7 +484,33 @@ height: 215px;
 
 
 /*Inicia Sección proyectos*/
-#Raw-Fluorescence h1{
+#Raw-Fluorescence-container,
+#Lite-Experience-container,
+#Arium-container,
+#Prismatic-container,
+#Rinoh-container,
+#Vector-container {
+	margin: 40px 0;
+}
+/*#Raw-Fluorescence-container .row {
+	max-width: 66.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+*/
+
+#Raw-Fluorescence-container h1,
+#Lite-Experience-container h1,
+#Arium-container h1,
+#Prismatic-container h1,
+#Rinoh-container h1,
+#Vector-container h1{
 	text-transform: uppercase;
 	font-family: 'Montserrat', bold sans-serif;
 	color: black;
@@ -494,7 +520,12 @@ height: 215px;
 	font-size: 36px;
 }
 
-#Raw-Fluorescence h3{
+#Raw-Fluorescence-container h3,
+#Lite-Experience-container h3, 
+#Arium-container h3,
+#Prismatic-container h3,
+#Rinoh-container h3, 
+#Vector-container h3{
 	text-transform: uppercase;
 	font-family: 'Montserrat', bold sans-serif;
 	color: black;
@@ -504,7 +535,12 @@ height: 215px;
 	font-size: 14px;
 }
 
-#Raw-Fluorescence h4{
+#Raw-Fluorescence-container h4,
+#Lite-Experience-container h4,
+#Arium-container h4,
+#Prismatic-container h4,
+#Rinoh-container h4, 
+#Vector-container h4{
 	text-transform: uppercase;
 	font-family: 'Montserrat', bold sans-serif;
 	color: black;
@@ -513,7 +549,12 @@ height: 215px;
 	text-align: left;
 	font-size: 12px;
 }
-#Raw-Fluorescence p{
+#Raw-Fluorescence-container p,
+#Lite-Experience-container p,
+#Arium-container p,
+#Prismatic-container p,
+#Rinoh-container p, 
+#Vector-container p{
 	text-transform: uppercase;
 	font-family: 'Montserrat', normal sans-serif;
 	color: black;
