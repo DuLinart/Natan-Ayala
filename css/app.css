@@ -469,11 +469,12 @@ height: 215px;
 	margin: 30px 0;
 }
 
-#datos-adicionales-container h3 {
+#datos-adicionales-container .datos a {
 	margin: 0px;
 	text-transform: none;
 	font-size: 18px;
 	font-family: 'Montserrat', normal sans-serif;
+	text-decoration: none;
 }
 
 #datos-adicionales-container a, p {
