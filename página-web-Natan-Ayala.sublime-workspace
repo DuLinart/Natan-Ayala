@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"menu",
+				"menu-container"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"orbit",
+				"orbit-slide"
+			],
+			[
+				"sh",
+				"show-for-medium"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"foo",
+				"footer-container"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"tex-",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"ali",
+				"align-spaced"
+			],
+			[
+				"large",
+				"large-6"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"fotn",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"show",
+				"show-for-small-only"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"medium",
+				"medium-4"
+			],
+			[
+				"alig",
+				"align-center"
+			],
+			[
+				"mediu",
+				"medium-4"
+			],
+			[
+				"te",
+				"text-left"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"med",
+				"medium-6"
+			],
+			[
+				"lar",
+				"large-4"
+			],
+			[
+				"column",
+				"columns"
+			],
+			[
+				"Lite",
+				"Lite-Experience"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"Raw",
+				"Raw-Fluorescence"
+			],
+			[
+				"small",
+				"small-12"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"align",
+				"align-center"
+			],
+			[
+				"mail",
+				"mailto"
+			],
+			[
+				"tick",
+				"tickets-container"
+			],
+			[
+				"lineup",
+				"lineup-container"
+			],
+			[
+				"pan",
+				"panelViernes"
+			],
+			[
+				"lin",
+				"lineup-container"
+			],
+			[
+				"sus",
+				"suscribete-container"
+			],
+			[
+				"ti",
+				"tickets-container"
+			],
+			[
+				"in",
+				"input-group-label"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"panel",
+				"panelDomingo"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border-col",
+				"border-collapse"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"fe",
+				"flex-start"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"pala",
+				"palabras"
+			],
+			[
+				"ahor",
+				"ahorcado"
+			],
+			[
+				"es",
+				"espacio"
+			],
+			[
+				"aho",
+				"ahorcado"
+			],
+			[
+				"dib",
+				"dibujoBrazos"
+			],
+			[
+				"fondo",
+				"fondo"
+			],
+			[
+				"imagen",
+				"imagen"
+			],
+			[
+				"ima",
+				"imagenURL"
+			],
+			[
+				"con",
+				"contexto"
+			],
+			[
+				"imag",
+				"imagenOK"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"line",
+				"lineTo"
+			],
+			[
+				"str",
+				"stroke"
+			],
+			[
+				"cl",
+				"closePath"
+			],
+			[
+				"strok",
+				"strokeStyle"
+			],
+			[
+				"ahora",
+				"Ahorcado"
+			],
+			[
+				"iz",
+				"izqOK"
+			],
+			[
+				"de",
+				"derOK"
+			],
+			[
+				"atras",
+				"atrasOK"
+			],
+			[
+				"tifi",
+				"tifiDibujo"
+			],
+			[
+				"fre",
+				"frente"
+			],
+			[
+				"liz",
+				"lizOK"
+			],
+			[
+				"frente",
+				"frenteOK"
+			],
+			[
+				"image",
+				"imagenURL"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"dibuj",
+				"dibujarGrilla"
+			],
+			[
+				"an",
+				"anchoLinea"
+			],
+			[
+				"lim",
+				"limiteY"
+			],
+			[
+				"numero",
+				"numero"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"op",
+				"opciones"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"pap",
+				"papel"
+			],
+			[
+				"pi",
+				"Piedra"
+			],
+			[
+				"papel",
+				"Papel"
+			],
+			[
+				"lagarto",
+				"Lagarto"
+			],
+			[
+				"opci",
+				"opcionMaquina"
+			],
+			[
+				"p",
+				"papel"
+			],
+			[
+				"o",
+				"opcionMaquina"
+			],
+			[
+				"peso",
+				"pesoEnMarte"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 276.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala"
+	],
+	"file_history":
+	[
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/PlatziPalooza/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/css/app.css",
+		"/Users/Du1Linart/Desktop/Página_Corrales-de_Buelna-SD/index.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/index.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Arium.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Lite-Experience.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Prismatic.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Raw-Fluorescence.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Rinoh.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Vector.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/js/app.js",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/css/app.css",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/Raw-Experience.html",
+		"/Users/Du1Linart/Desktop/Natan-Ayala/css/foundation.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/PlatziPalooza/css/app.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/PlatziPalooza/js/app.js",
+		"/Users/Du1Linart/Desktop/Corrales_de_Buelna/index.html",
+		"/Users/Du1Linart/Desktop/PlatziPalooza/css/app.css",
+		"/Users/Du1Linart/Desktop/PlatziPalooza/index.html",
+		"/Users/Du1Linart/Desktop/PlatziPalooza/js/app.js",
+		"/Users/Du1Linart/Desktop/PlatziPalooza/assets/map-small.html",
+		"/Users/Du1Linart/Desktop/PlatziPalooza/assets/map.html",
+		"/Users/Du1Linart/Desktop/PlatziPalooza/css/pracing-table.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/Desarrollo web/Invie/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Página Corrales de Buelna SD/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Responsive_design/Invie_responsive_desing/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Materialize/pruebas.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Página Corrales de Buelna SD/css/estilos.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_1_desarrollo_web/blog_linarte.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Responsive_design/Invie_responsive_desing/css/invie.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Responsive_design/Reto 1/css/estilos.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Responsive_design/Reto 1/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Responsive_design/Reto 1/estilos.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie_responsive_desing/css/invie.min.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie_responsive_desing/css/invie.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/index.html",
+		"/Users/Du1Linart/Desktop/platzigit-master/index.html",
+		"/Users/Du1Linart/Desktop/mejorandogit-master/x.txt",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/responsive_desing/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/responsive_desing/css/invie.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/responsive_desing/precios.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/responsive_desing/css/media-querie.css",
+		"/Users/Du1Linart/Documents/LINARTE/Corrales de Buelna/Proyecto_Página_web/index.html",
+		"/Users/Du1Linart/Documents/LINARTE/Corrales de Buelna/Proyecto_Página_web/css/corrales.css",
+		"/Users/Du1Linart/Documents/LINARTE/Corrales de Buelna/Proyecto_Página_web/index-html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_3_Imagen/reto_3_imagen.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_3_Imagen/reto_3_imagen.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_2_footer/reto_3_imagen.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_2_footer/reto_footer.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_2_footer/reto_footer.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_2_footer/reto_footer.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_2_footer/reto_footer-js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_1_desarrollo_web/quienes_somos.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Reto_1_desarrollo_web/blog_linarte.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/css/invie.css",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Desarrollo web/Invie/precios.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/node/formulario.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/node/backend.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/js/piedra.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Ahorcado/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Ahorcado/ahorcado.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/zelda/tifis_platzi.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/zelda/tifis.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/zelda/tifis.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/canvas/canvas.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/canvas/canvas.js",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Ciclos/ciclos.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/clase 2/dom.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/clase 2/document.js",
+		"/Users/Du1Linart/Desktop/Platzi/clase 2/arrays.html",
+		"/Users/Du1Linart/Desktop/Platzi/clase 2/matriz.js",
+		"/Users/Du1Linart/Desktop/Platzi/clase 2/write.html",
+		"/Users/Du1Linart/Desktop/Platzi/js/piedra.js",
+		"/Users/Du1Linart/Desktop/Platzi/js/piedra.html",
+		"/Users/Du1Linart/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Du1Linart/Desktop/Platzi/Clase 1/clase1.html",
+		"/Users/Du1Linart/Desktop/Platzi/Clase 1/codigo.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Pokemon/pokemon.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Pokemon/pokemon.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 6 drag & drop /drag&drop.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 6 drag & drop /dragdrop.css",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 6 drag & drop /dragdrop.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 5 Canvas/Canvas.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 5 Canvas/canvas.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 4 formularios/formulario.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 3 Video/reproductor.css",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 3 Video/reproductor.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 3 Video/video.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 3 Java script/Aprendiendo_java.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 3 Java script/micodigo.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 2/Nuevos estillos CSS3.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/Clase 2/nuevocss3.css",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/aprendiendo.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/miestilo.css",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/misestilos.css",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Aprendiendo/aprendiendo_css.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/canvas/index.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/canvas/canvas.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Ciclos/ciclos.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Objetos de navegador/DOM.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Objetos de navegador/Document.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/arrays.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/matriz.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/js/piedra.js",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/piedrapapeltijera.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/Clase1.html",
+		"/Users/Du1Linart/Desktop/Mis proyectos de programación/codigo.js",
+		"/Users/Du1Linart/Desktop/Primer primer proyecto.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rem",
+			"                                            <!--",
+			"Prismatic",
+			"height=\"200px\"",
+			"150",
+			"height=\"100px\"",
+			"height=\"100px",
+			"150",
+			"200",
+			"data-toggle-dia",
+			"lineup-tabs",
+			"educación",
+			"200",
+			"extras",
+			"habilidades",
+			"año",
+			"logo",
+			"small",
+			"cv-con",
+			"tabs",
+			"menu-1",
+			"natan-menu",
+			"menu",
+			"menu-",
+			"menu-conta",
+			"medios",
+			"edup",
+			"350",
+			"200",
+			"educaci",
+			"#div-logo-container",
+			"menu",
+			"menu-con",
+			"is-active",
+			"div-cv",
+			"proyectos",
+			"center",
+			"large-3",
+			"natan-logo",
+			"proyectos",
+			"columns",
+			"hide",
+			"left",
+			"                            \n",
+			"nata",
+			"columns",
+			"proyectos",
+			"Sección de proyectos",
+			"RINOH",
+			"Prismatic",
+			"Arium",
+			"Lite Experience",
+			"<!-- Raw Fluorence -->\n",
+			"stick",
+			"arium",
+			"Lite-Experience",
+			"logo-con",
+			"sticky",
+			"sti",
+			"section",
+			"end",
+			"star",
+			"<div",
+			"is-invalid",
+			"susc",
+			"off",
+			"offCanvas",
+			"magel",
+			"div",
+			"dib",
+			"end",
+			"x",
+			"queen",
+			"Queen",
+			"queen",
+			"Queen",
+			"queen",
+			"Queen",
+			"Guns 'n' Roses",
+			"div",
+			"Guns 'n' Roses",
+			"panelViernes",
+			"h1",
+			"column",
+			"3",
+			"small-12 medium-expand",
+			"12",
+			"3",
+			"movimiento",
+			"red",
+			"div",
+			"section",
+			"img",
+			"blank",
+			"font-fa",
+			"div",
+			"h2",
+			"contacto",
+			"input",
+			"media",
+			"mujer",
+			"sexo",
+			"ico",
+			"allert",
+			"..",
+			"('../",
+			"}\n",
+			"body",
+			"style",
+			"500",
+			"menu",
+			"backgr",
+			"backg",
+			"menu",
+			"backg",
+			"img",
+			"fonts",
+			"div",
+			"    \n",
+			"boto",
+			"contene",
+			"aviso",
+			"footer",
+			"contenedor",
+			"conte",
+			"bot",
+			"guitarras",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "página-web-Natan-Ayala.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
