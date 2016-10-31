@@ -575,4 +575,10 @@ height: 215px;
 	font-size: 12px;
 }
 
+
+.orbit-caption  {
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Montserrat', normal sans-serif;
+}
 /*Termina sección proyectos*/
