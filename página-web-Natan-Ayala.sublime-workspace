@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-decoration"
+			],
+			[
 				"menu",
 				"menu-container"
 			],
@@ -34,10 +38,6 @@
 			[
 				"u",
 				"uppercase"
-			],
-			[
-				"text",
-				"text-transform"
 			],
 			[
 				"paddin",
@@ -519,6 +519,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 9513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -552,11 +561,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala"
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/css"
 	],
 	"file_history":
 	[
 		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/index.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/Rinoh.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/Vector.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/Raw-Fluorescence.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/Prismatic.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/Lite-Experience.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/Arium.html",
+		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/css/foundation.css",
 		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/PlatziPalooza/index.html",
 		"/Users/Du1Linart/Documents/Mis proyectos de programación/Platzi/Frontend/boostrap&Foundation/Foundation/Proyectos/Natan-Ayala/css/app.css",
 		"/Users/Du1Linart/Desktop/Página_Corrales-de_Buelna-SD/index.html",
@@ -668,7 +685,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -682,6 +699,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"logo-nata",
+			"habilidades",
+			"Space",
+			"Lets",
 			"rem",
 			"                                            <!--",
 			"Prismatic",
@@ -805,11 +826,7 @@
 			"contene",
 			"aviso",
 			"footer",
-			"contenedor",
-			"conte",
-			"bot",
-			"guitarras",
-			"img"
+			"contenedor"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -827,8 +844,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7494,
+								7494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6773.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
